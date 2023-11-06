@@ -220,7 +220,7 @@
                         android:textSize="25sp" />
 
                     <Button
-                        android:id="@+id/n10"
+                        android:id="@+id/n2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
@@ -236,7 +236,7 @@
                     android:weightSum="0">
 
                     <Button
-                        android:id="@+id/n11"
+                        android:id="@+id/n0"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
@@ -265,7 +265,7 @@
                     android:orientation="vertical">
 
                     <Button
-                        android:id="@+id/nx"
+                        android:id="@+id/n1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
@@ -309,7 +309,7 @@
                     android:layout_weight="1"
                     android:orientation="vertical">
                     <Button
-                        android:id="@+id/nr"
+                        android:id="@+id/equal"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:text="="
